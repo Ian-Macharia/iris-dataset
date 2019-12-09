@@ -6,4 +6,5 @@ I was curious to see whether the implicit conversion of the dependent varible by
 - The model predicted the test dataset 100% accurately, not sure if it's that good or it's overfitted, will look for solutions from others and see if they have similar results (After check: Apparently a perfect score is quite common with this database)
 
 Solution 1 - without encoded dependent variable.
-Solution  - with encoded dependent variable.
+
+Solution 2 - with encoded dependent variable.
